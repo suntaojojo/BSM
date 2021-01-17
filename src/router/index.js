@@ -2,7 +2,6 @@ import Vue from 'vue'
 import VueRouter from 'vue-router'
 import first from '@/router/routers/first'
 import login from '@/router/routers/login'
-import Welcome from '@/views/first/welcome'
 
 Vue.use(VueRouter)
 
